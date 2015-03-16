@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jimhopp/AndroidStudioProjects/GPSvsNetwork/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/jimhopp/AndroidStudioProjects/GPSvsNetwork/app/build/intermediates/pre-dexed/debug/classes-8339c42436117541b2b0cde4c0a5ba5ec4b6d1b8.jar" />
+    </item>
+    <item
+        jar="/Users/jimhopp/AndroidStudioProjects/GPSvsNetwork/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/jimhopp/AndroidStudioProjects/GPSvsNetwork/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-c3faa449aa3d1c033fada6727e35b6f012401e9e.jar" />
+    </item>
+    <item
+        jar="/Users/jimhopp/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/jimhopp/AndroidStudioProjects/GPSvsNetwork/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-b200d24c2e39baabc8fe6c0fef760428176b8c4e.jar" />
+    </item>
+    <item
+        jar="/Users/jimhopp/AndroidStudioProjects/GPSvsNetwork/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/jimhopp/AndroidStudioProjects/GPSvsNetwork/app/build/intermediates/pre-dexed/debug/classes-833e3124431c1825e90e3cc891e5b5909b2c0efe.jar" />
+    </item>
+
+</items>

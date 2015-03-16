@@ -1,0 +1,5 @@
+/Users/jimhopp/AndroidStudioProjects/GPSvsNetwork/app/build/intermediates/classes/debug
+/Users/jimhopp/AndroidStudioProjects/GPSvsNetwork/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-b200d24c2e39baabc8fe6c0fef760428176b8c4e.jar
+/Users/jimhopp/AndroidStudioProjects/GPSvsNetwork/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-c3faa449aa3d1c033fada6727e35b6f012401e9e.jar
+/Users/jimhopp/AndroidStudioProjects/GPSvsNetwork/app/build/intermediates/pre-dexed/debug/classes-8339c42436117541b2b0cde4c0a5ba5ec4b6d1b8.jar
+/Users/jimhopp/AndroidStudioProjects/GPSvsNetwork/app/build/intermediates/pre-dexed/debug/classes-833e3124431c1825e90e3cc891e5b5909b2c0efe.jar
